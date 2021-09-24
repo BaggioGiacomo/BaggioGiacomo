@@ -1,6 +1,13 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## My name's Baggio Giacomo 🥳, I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) 🏫
 
+## ✉️ Find me on:
+<p align="center">
+ <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/giacomo-baggio-667122170/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px color:white"></a>
+ <a href="mailto:giacomobaggio13@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
 ### Languages and tools 🛠️
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" style="vertical-align:top; margin:4px">
