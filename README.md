@@ -3,9 +3,9 @@
 
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/giacomo-baggio-667122170/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" color="white" height="40" style="vertical-align:top; margin:10px"></a>
- <a href="mailto:giacomobaggio13@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <image src="https://user-images.githubusercontent.com/58849430/134695454-4e29caf4-4181-4c76-853f-8bcd24f79e33.png" </image></a>
+ <a href="https://www.linkedin.com/in/giacomo-baggio-667122170/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/58849430/134695544-928b3569-3f4e-45ed-a11f-2785f7efa4cd.png"></image></a>
+ <a href="mailto:giacomobaggio13@gmail.com"> <image src="https://user-images.githubusercontent.com/58849430/134695221-8bf5770e-5e40-4e82-a59c-50312b32309d.png" </image></a>
 </p>
 
 ### Languages and tools 🛠️
@@ -21,6 +21,3 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=BaggioGiacomo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
-
-
-<image style="width:40px" src="https://user-images.githubusercontent.com/58849430/134693199-a5e93c06-fcf5-47c3-9782-4abab37ccb4f.png"></image>
