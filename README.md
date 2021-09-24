@@ -23,4 +23,4 @@
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
 
 
-![image](https://user-images.githubusercontent.com/58849430/134693199-a5e93c06-fcf5-47c3-9782-4abab37ccb4f.png)
+<image style="width:40px" src="https://user-images.githubusercontent.com/58849430/134693199-a5e93c06-fcf5-47c3-9782-4abab37ccb4f.png"></image>
