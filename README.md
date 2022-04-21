@@ -1,6 +1,12 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## My name's Baggio Giacomo 🥳, I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) 🏫
-
+<div>
+  <div width="50%">
+    # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    ## My name's Baggio Giacomo 🥳, I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) 🏫
+   </div>
+   <div width="50%">
+    <p>Test</p>
+   </div>
+</div>
 ## ✉️ Find me on:
 <p style="align:center">
  <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <image src="https://user-images.githubusercontent.com/58849430/134695454-4e29caf4-4181-4c76-853f-8bcd24f79e33.png" </image></a>
