@@ -1,7 +1,9 @@
 <div>
-  <div width="50%">
+  <div>
     # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    
     ## My name's Baggio Giacomo 🥳, I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) 🏫
+    
    </div>
    <div width="50%">
     <p>Test</p>
