@@ -21,6 +21,5 @@
 
 ## My GitHub Stats! 📈
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=baggiogiacomo&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
-![snake gif](https://github.com/baggiogiacomo/baggiogiacomo/blob/output/github-contribution-grid-snake.gif)
-
+<img align="center" src="https://raw.githubusercontent.com/baggiogiacomo/baggiogiacomo/output/github-contribution-grid-snake.svg" />
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
