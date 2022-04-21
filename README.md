@@ -27,4 +27,9 @@
 ## Snake 🐍
 <img align="center" src="https://raw.githubusercontent.com/baggiogiacomo/baggiogiacomo/output/github-contribution-grid-snake.svg" />
 
+## Recent Activity ✔️
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
