@@ -8,7 +8,7 @@
  <a href="mailto:giacomobaggio13@gmail.com"> <image src="https://user-images.githubusercontent.com/58849430/134695221-8bf5770e-5e40-4e82-a59c-50312b32309d.png" </image></a>
 </p>
 
-### Languages and tools 🛠️
+## Languages and tools 🛠️
 <p>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" style="vertical-align:top; margin:4px">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="40" style="vertical-align:top; margin:4px">
@@ -19,7 +19,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### My GitHub Stats! 📈
+## My GitHub Stats! 📈
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=baggiogiacomo&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
 
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
