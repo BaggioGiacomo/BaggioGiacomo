@@ -18,6 +18,6 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="40" style="vertical-align:top; margin:4px">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=BaggioGiacomo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=BaggioGiacomo&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula />
 
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
