@@ -18,6 +18,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="40" style="vertical-align:top; margin:4px">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="40" style="vertical-align:top; margin:4px">
 </p>
+### 📈 My GitHub Stats!
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=baggiogiacomo&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
 
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
