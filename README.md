@@ -67,16 +67,16 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-2. 💪 Opened PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-3. 💪 Opened PR [#4](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/4) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-4. ❌ Closed PR [#3](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/3) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-5. 💪 Opened PR [#3](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/3) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-6. 💪 Opened PR [#2](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/2) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-7. ❌ Closed PR [#1](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/1) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-8. 💪 Opened PR [#1](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/1) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-9. ❗️ Opened issue [#1](https://github.com/SyncfusionExamples/app-login-screen-in-xamarin/issues/1) in [SyncfusionExamples/app-login-screen-in-xamarin](https://github.com/SyncfusionExamples/app-login-screen-in-xamarin)
-10. 🗣 Commented on [#9268](https://github.com/xamarin/Xamarin.Forms/issues/9268) in [xamarin/Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms)
+1. 🎉 Merged PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
+2. 💪 Opened PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
+3. 🎉 Merged PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+4. 💪 Opened PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+5. 💪 Opened PR [#4](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/4) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+6. ❌ Closed PR [#3](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/3) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+7. 💪 Opened PR [#3](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/3) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+8. 💪 Opened PR [#2](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/2) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+9. ❌ Closed PR [#1](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/1) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+10. 💪 Opened PR [#1](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/1) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
 <!--END_SECTION:activity-->
 
 ## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
