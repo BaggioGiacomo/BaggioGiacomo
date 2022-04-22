@@ -5,9 +5,9 @@
   
 ## Find me on 🧑‍🤝‍🧑
 <p style="align:center">
- <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <image src="https://user-images.githubusercontent.com/58849430/134695454-4e29caf4-4181-4c76-853f-8bcd24f79e33.png" </image></a>
- <a href="https://www.linkedin.com/in/giacomo-baggio-667122170/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/58849430/134695544-928b3569-3f4e-45ed-a11f-2785f7efa4cd.png"></image></a>
- <a href="mailto:giacomobaggio13@gmail.com"> <image src="https://user-images.githubusercontent.com/58849430/134695221-8bf5770e-5e40-4e82-a59c-50312b32309d.png" </image></a>
+ <a href="https://BaggioGiacomo.github.io/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a>
+ <a href="https://www.linkedin.com/in/giacomo-baggio-667122170/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></image></a>
+ <a href="mailto:giacomobaggio13@gmail.com"> <image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</image></a>
 </p>
 
 ## Languages and tools 🛠️
