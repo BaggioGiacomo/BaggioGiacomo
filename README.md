@@ -2,7 +2,7 @@
     
 ## Who am I? 🤔
 My name's Baggio Giacomo and I'm 20 years old.
-I'm from Italy 🇮🇹 and I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) in Pordenone 🏫
+I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) in Pordenone 🏫
     
 ## Find me on 🧑‍🤝‍🧑
 <p style="align:center">
@@ -11,7 +11,7 @@ I'm from Italy 🇮🇹 and I'm a cloud developer student at [Its AltoAdriatico]
  <a href="mailto:giacomobaggio13@gmail.com"> <image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</image></a>
 </p>
 
-## Languages 🧰
+## Languages 🛠️
 <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -39,6 +39,23 @@ I'm from Italy 🇮🇹 and I'm a cloud developer student at [Its AltoAdriatico]
     <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+</p>
+
+## Database 🧰
+<p>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+## IDEs / Text editors ⚙️
+<p>
+    <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 ## My GitHub Stats! 📈
