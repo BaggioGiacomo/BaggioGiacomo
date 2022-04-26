@@ -103,9 +103,6 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 <!--END_SECTION:activity-->
 
 ## 🎵
-
-<div>
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giacomobaggio13&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</div>
+<img width="50px" height="50px" src="https://spotify-github-profile.vercel.app/api/view?uid=giacomobaggio13&cover_image=true&theme=default"/>
 
 ## Awesome visitors 💓 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
