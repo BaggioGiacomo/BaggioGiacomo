@@ -102,4 +102,4 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 10. 💪 Opened PR [#1](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/1) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
 <!--END_SECTION:activity-->
 
-## Awesome visitors 💝 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
+## Awesome visitors ❤️‍🔥 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
