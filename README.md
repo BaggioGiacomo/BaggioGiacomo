@@ -102,4 +102,7 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 10. ❌ Closed PR [#3](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/3) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
 <!--END_SECTION:activity-->
 
+## 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=giacomobaggio13&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ## Awesome visitors 💓 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
