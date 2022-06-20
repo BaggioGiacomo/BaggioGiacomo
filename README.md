@@ -90,16 +90,16 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-2. 🗣 Commented on [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-3. ❗️ Opened issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-4. ❌ Closed PR [#2](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/2) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-5. ❌ Closed PR [#4](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/4) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-6. 🎉 Merged PR [#26](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/26) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
-7. 💪 Opened PR [#26](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/26) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
-8. 🎉 Merged PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
-9. 💪 Opened PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
-10. 🎉 Merged PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+1. 🗣 Commented on [#1](https://github.com/ProjectWorkGruppo3/Simulator/issues/1) in [ProjectWorkGruppo3/Simulator](https://github.com/ProjectWorkGruppo3/Simulator)
+2. ❗️ Closed issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
+3. 🗣 Commented on [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
+4. ❗️ Opened issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
+5. ❌ Closed PR [#2](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/2) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+6. ❌ Closed PR [#4](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/4) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+7. 🎉 Merged PR [#26](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/26) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
+8. 💪 Opened PR [#26](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/26) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
+9. 🎉 Merged PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
+10. 💪 Opened PR [#23](https://github.com/BaggioGiacomo/BrusatoTrasportiApp/pull/23) in [BaggioGiacomo/BrusatoTrasportiApp](https://github.com/BaggioGiacomo/BrusatoTrasportiApp)
 <!--END_SECTION:activity-->
 
 ## 🎵
