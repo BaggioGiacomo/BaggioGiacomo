@@ -90,16 +90,16 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-2. 💪 Opened PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-3. ❗️ Opened issue [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-4. 🗣 Commented on [#1](https://github.com/ProjectWorkGruppo3/Simulator/issues/1) in [ProjectWorkGruppo3/Simulator](https://github.com/ProjectWorkGruppo3/Simulator)
-5. ❗️ Closed issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-6. 🗣 Commented on [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-7. ❗️ Opened issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
-8. ❌ Closed PR [#2](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/2) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-9. ❌ Closed PR [#4](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/4) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
-10. 🎉 Merged PR [#5](https://github.com/BaggioGiacomo/BaggioGiacomo/pull/5) in [BaggioGiacomo/BaggioGiacomo](https://github.com/BaggioGiacomo/BaggioGiacomo)
+1. 🗣 Commented on [#29](https://github.com/ProjectWorkGruppo3/Frontend/issues/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+2. 💪 Opened PR [#29](https://github.com/ProjectWorkGruppo3/Frontend/pull/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+3. 🗣 Commented on [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+4. ❗️ Closed issue [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+5. 🗣 Commented on [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+6. 🎉 Merged PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+7. 💪 Opened PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+8. ❗️ Opened issue [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+9. 🗣 Commented on [#1](https://github.com/ProjectWorkGruppo3/Simulator/issues/1) in [ProjectWorkGruppo3/Simulator](https://github.com/ProjectWorkGruppo3/Simulator)
+10. ❗️ Closed issue [#3](https://github.com/xjamundx/exchange-rate/issues/3) in [xjamundx/exchange-rate](https://github.com/xjamundx/exchange-rate)
 <!--END_SECTION:activity-->
 
 ## 🎵
