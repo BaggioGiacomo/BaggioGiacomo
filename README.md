@@ -90,16 +90,16 @@ I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/ProjectWorkGruppo3/Frontend/pull/36) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-2. 💪 Opened PR [#36](https://github.com/ProjectWorkGruppo3/Frontend/pull/36) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-3. 🗣 Commented on [#29](https://github.com/ProjectWorkGruppo3/Frontend/issues/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-4. 💪 Opened PR [#29](https://github.com/ProjectWorkGruppo3/Frontend/pull/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-5. 🗣 Commented on [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-6. ❗️ Closed issue [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-7. 🗣 Commented on [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-8. 🎉 Merged PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-9. 💪 Opened PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
-10. ❗️ Opened issue [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+1. ❗️ Opened issue [#45](https://github.com/ProjectWorkGruppo3/Frontend/issues/45) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+2. 🎉 Merged PR [#36](https://github.com/ProjectWorkGruppo3/Frontend/pull/36) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+3. 💪 Opened PR [#36](https://github.com/ProjectWorkGruppo3/Frontend/pull/36) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+4. 🗣 Commented on [#29](https://github.com/ProjectWorkGruppo3/Frontend/issues/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+5. 💪 Opened PR [#29](https://github.com/ProjectWorkGruppo3/Frontend/pull/29) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+6. 🗣 Commented on [#21](https://github.com/ProjectWorkGruppo3/Frontend/issues/21) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+7. ❗️ Closed issue [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+8. 🗣 Commented on [#2](https://github.com/ProjectWorkGruppo3/Frontend/issues/2) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+9. 🎉 Merged PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
+10. 💪 Opened PR [#22](https://github.com/ProjectWorkGruppo3/Frontend/pull/22) in [ProjectWorkGruppo3/Frontend](https://github.com/ProjectWorkGruppo3/Frontend)
 <!--END_SECTION:activity-->
 
 ## 🎵
