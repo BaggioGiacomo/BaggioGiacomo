@@ -2,6 +2,7 @@
     
 ## Who am I? 🤔
 My name's Baggio Giacomo, I'm 21 years old and I'm from Italy 🇮🇹.
+
 I'm a cloud developer superior technician and I'm currently working as a web developer at [InkOfPixel](https://inkofpixel.com/).
     
 ## Find me on 🧑‍🤝‍🧑
