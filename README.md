@@ -2,7 +2,7 @@
     
 ## Who am I? 🤔
 My name's Baggio Giacomo and I'm 20 years old.
-I'm from Italy and I'm a cloud developer student at [Its AltoAdriatico](https://www.tecnicosuperiorekennedy.it/) in Pordenone 🏫
+I'm from Italy and I'm a cloud developer superior technician and I'm currently working as a web developer at [InkOfPixel](https://inkofpixel.com/).
     
 ## Find me on 🧑‍🤝‍🧑
 <p style="align:center">
