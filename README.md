@@ -91,16 +91,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-2. 🗣 Commented on [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-3. ❗️ Opened issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-4. 🗣 Commented on [#9333](https://github.com/remix-run/react-router/issues/9333) in [remix-run/react-router](https://github.com/remix-run/react-router)
-5. ❗️ Opened issue [#24](https://github.com/remix-run/react-router-website/issues/24) in [remix-run/react-router-website](https://github.com/remix-run/react-router-website)
-6. ❗️ Opened issue [#9754](https://github.com/remix-run/react-router/issues/9754) in [remix-run/react-router](https://github.com/remix-run/react-router)
-7. 🗣 Commented on [#1550](https://github.com/Shopify/shopify_app/issues/1550) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-8. ❗️ Closed issue [#5697](https://github.com/mperham/sidekiq/issues/5697) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-9. ❗️ Opened issue [#5697](https://github.com/mperham/sidekiq/issues/5697) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-10. 🗣 Commented on [#1550](https://github.com/Shopify/shopify_app/issues/1550) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+1. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+2. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+3. ❗️ Opened issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
+4. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+5. ❗️ Closed issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
+6. 🗣 Commented on [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
+7. ❗️ Opened issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
+8. 🗣 Commented on [#9333](https://github.com/remix-run/react-router/issues/9333) in [remix-run/react-router](https://github.com/remix-run/react-router)
+9. ❗️ Opened issue [#24](https://github.com/remix-run/react-router-website/issues/24) in [remix-run/react-router-website](https://github.com/remix-run/react-router-website)
+10. ❗️ Opened issue [#9754](https://github.com/remix-run/react-router/issues/9754) in [remix-run/react-router](https://github.com/remix-run/react-router)
 <!--END_SECTION:activity-->
 
 ## 🎵
