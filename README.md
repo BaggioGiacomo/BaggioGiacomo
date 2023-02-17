@@ -106,7 +106,4 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## 🎵
 ### [Join my chill playlist](https://open.spotify.com/playlist/4znbyxKtp9u7rpF3VpLeGJ?si=f8d9262b3cbc4655)
 
-
-![](https://gitwar.herokuapp.com/badge?username=baggiogiacomo&color=green)
-
 ## Awesome visitors 💓 ![](https://komarev.com/ghpvc/?username=BaggioGiacomo&label=Profile%20views&color=ce9927&style=flat)
