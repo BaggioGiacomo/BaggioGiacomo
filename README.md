@@ -91,16 +91,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
-2. 🗣 Commented on [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
-3. ❗️ Opened issue [#1647](https://github.com/Shopify/shopify_app/issues/1647) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-4. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+1. 🗣 Commented on [#122](https://github.com/adamzapasnik/prettier-plugin-erb/issues/122) in [adamzapasnik/prettier-plugin-erb](https://github.com/adamzapasnik/prettier-plugin-erb)
+2. ❗️ Closed issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
+3. 🗣 Commented on [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
+4. ❗️ Opened issue [#1647](https://github.com/Shopify/shopify_app/issues/1647) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
 5. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
-6. ❗️ Opened issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
-7. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
-8. ❗️ Closed issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-9. 🗣 Commented on [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
-10. ❗️ Opened issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
+6. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+7. ❗️ Opened issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
+8. 🗣 Commented on [#61](https://github.com/kirillplatonov/shopify-hotwire-sample/issues/61) in [kirillplatonov/shopify-hotwire-sample](https://github.com/kirillplatonov/shopify-hotwire-sample)
+9. ❗️ Closed issue [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
+10. 🗣 Commented on [#5750](https://github.com/mperham/sidekiq/issues/5750) in [mperham/sidekiq](https://github.com/mperham/sidekiq)
 <!--END_SECTION:activity-->
 
 ## 🎵
