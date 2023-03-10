@@ -40,6 +40,7 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ### FullStack
 <p>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
 ### Mobile dev
