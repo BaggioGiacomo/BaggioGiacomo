@@ -92,13 +92,13 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#793](https://github.com/prettier/plugin-ruby/issues/793) in [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
-2. 🗣 Commented on [#1657](https://github.com/Shopify/shopify_app/issues/1657) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-3. 🗣 Commented on [#990](https://github.com/Shopify/cli/issues/990) in [Shopify/cli](https://github.com/Shopify/cli)
-4. 🗣 Commented on [#44](https://github.com/adamzapasnik/prettier-plugin-erb/issues/44) in [adamzapasnik/prettier-plugin-erb](https://github.com/adamzapasnik/prettier-plugin-erb)
-5. 🗣 Commented on [#440](https://github.com/Shopify/shopify-cli/issues/440) in [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli)
-6. 🗣 Commented on [#1657](https://github.com/Shopify/shopify_app/issues/1657) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-7. 🗣 Commented on [#65](https://github.com/Shopify/shopify-app-template-ruby/issues/65) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
+1. 🗣 Commented on [#236](https://github.com/Shopify/liquid/issues/236) in [Shopify/liquid](https://github.com/Shopify/liquid)
+2. 🗣 Commented on [#793](https://github.com/prettier/plugin-ruby/issues/793) in [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
+3. 🗣 Commented on [#1657](https://github.com/Shopify/shopify_app/issues/1657) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+4. 🗣 Commented on [#990](https://github.com/Shopify/cli/issues/990) in [Shopify/cli](https://github.com/Shopify/cli)
+5. 🗣 Commented on [#44](https://github.com/adamzapasnik/prettier-plugin-erb/issues/44) in [adamzapasnik/prettier-plugin-erb](https://github.com/adamzapasnik/prettier-plugin-erb)
+6. 🗣 Commented on [#440](https://github.com/Shopify/shopify-cli/issues/440) in [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli)
+7. 🗣 Commented on [#1657](https://github.com/Shopify/shopify_app/issues/1657) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
 8. 🗣 Commented on [#122](https://github.com/adamzapasnik/prettier-plugin-erb/issues/122) in [adamzapasnik/prettier-plugin-erb](https://github.com/adamzapasnik/prettier-plugin-erb)
 9. ❗️ Closed issue [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
 10. 🗣 Commented on [#75](https://github.com/Shopify/shopify-app-template-ruby/issues/75) in [Shopify/shopify-app-template-ruby](https://github.com/Shopify/shopify-app-template-ruby)
