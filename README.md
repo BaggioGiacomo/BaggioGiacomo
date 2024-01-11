@@ -92,11 +92,11 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1838436468) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-2. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1836097355) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-3. ❗ Opened issue [#533](https://github.com/hotwired/turbo-rails/issues/533) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-4. 🗣 Commented on [#5266](https://github.com/rvm/rvm/issues/5266#issuecomment-1754677594) in [rvm/rvm](https://github.com/rvm/rvm)
-5. 🔒 Closed issue [#236](https://github.com/Shopify/shopify-app-bridge/issues/236) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+1. ❗ Opened issue [#1646](https://github.com/Shopify/ui-extensions/issues/1646) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+2. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1838436468) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
+3. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1836097355) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
+4. ❗ Opened issue [#533](https://github.com/hotwired/turbo-rails/issues/533) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
+5. 🗣 Commented on [#5266](https://github.com/rvm/rvm/issues/5266#issuecomment-1754677594) in [rvm/rvm](https://github.com/rvm/rvm)
 6. 🗣 Commented on [#236](https://github.com/Shopify/shopify-app-bridge/issues/236#issuecomment-1741017651) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
 7. ❗ Opened issue [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
 8. 🗣 Commented on [#10426](https://github.com/Shopify/polaris/issues/10426#issuecomment-1725046837) in [Shopify/polaris](https://github.com/Shopify/polaris)
