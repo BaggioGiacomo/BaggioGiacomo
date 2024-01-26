@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1907580600) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-2. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1905423544) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-3. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1903801107) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-4. 🗣 Commented on [#1708](https://github.com/Shopify/shopify_app/issues/1708#issuecomment-1903745825) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-5. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1897922786) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-6. ❗ Opened issue [#1646](https://github.com/Shopify/ui-extensions/issues/1646) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-7. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1838436468) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-8. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1836097355) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-9. ❗ Opened issue [#533](https://github.com/hotwired/turbo-rails/issues/533) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
-10. 🔒 Closed issue [#223](https://github.com/Shopify/shopify-app-bridge/issues/223) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+1. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1910114981) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+2. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1907580600) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+3. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1905423544) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+4. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1903801107) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+5. 🗣 Commented on [#1708](https://github.com/Shopify/shopify_app/issues/1708#issuecomment-1903745825) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+6. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1897922786) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+7. ❗ Opened issue [#1646](https://github.com/Shopify/ui-extensions/issues/1646) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+8. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1838436468) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
+9. 🗣 Commented on [#533](https://github.com/hotwired/turbo-rails/issues/533#issuecomment-1836097355) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
+10. ❗ Opened issue [#533](https://github.com/hotwired/turbo-rails/issues/533) in [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails)
 <!--END_SECTION:activity-->
 
 ## 🎵
