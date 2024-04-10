@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2020438546) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-2. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2017676851) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-3. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2017609532) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-4. 🗣 Commented on [#10135](https://github.com/Shopify/polaris/issues/10135#issuecomment-2008866212) in [Shopify/polaris](https://github.com/Shopify/polaris)
-5. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1988854546) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-6. ❗ Opened issue [#302](https://github.com/Shopify/shopify-app-bridge/issues/302) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-7. 🗣 Commented on [#236](https://github.com/Shopify/shopify-app-bridge/issues/236#issuecomment-1950493560) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-8. 🗣 Commented on [#2969](https://github.com/Shopify/cli/issues/2969#issuecomment-1948508515) in [Shopify/cli](https://github.com/Shopify/cli)
-9. 🔒 Closed issue [#1646](https://github.com/Shopify/ui-extensions/issues/1646) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-10. 🗣 Commented on [#1646](https://github.com/Shopify/ui-extensions/issues/1646#issuecomment-1912844909) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+1. 🗣 Commented on [#8686](https://github.com/Shopify/polaris/issues/8686#issuecomment-2044514409) in [Shopify/polaris](https://github.com/Shopify/polaris)
+2. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2020438546) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+3. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2017676851) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+4. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2017609532) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+5. 🗣 Commented on [#10135](https://github.com/Shopify/polaris/issues/10135#issuecomment-2008866212) in [Shopify/polaris](https://github.com/Shopify/polaris)
+6. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-1988854546) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+7. ❗ Opened issue [#302](https://github.com/Shopify/shopify-app-bridge/issues/302) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+8. 🗣 Commented on [#236](https://github.com/Shopify/shopify-app-bridge/issues/236#issuecomment-1950493560) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+9. 🗣 Commented on [#2969](https://github.com/Shopify/cli/issues/2969#issuecomment-1948508515) in [Shopify/cli](https://github.com/Shopify/cli)
+10. 🔒 Closed issue [#1646](https://github.com/Shopify/ui-extensions/issues/1646) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
 <!--END_SECTION:activity-->
 
 ## 🎵
