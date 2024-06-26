@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12223](https://github.com/Shopify/polaris/issues/12223) in [Shopify/polaris](https://github.com/Shopify/polaris)
-2. 🗣 Commented on [#11479](https://github.com/Shopify/polaris/pull/11479#issuecomment-2152777073) in [Shopify/polaris](https://github.com/Shopify/polaris)
-3. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2135019013) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-4. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2114112106) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-5. 💪 Opened PR [#1847](https://github.com/Shopify/shopify_app/pull/1847) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-6. ❗ Opened issue [#1846](https://github.com/Shopify/shopify_app/issues/1846) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-7. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2060544021) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-8. 🗣 Commented on [#8686](https://github.com/Shopify/polaris/issues/8686#issuecomment-2044514409) in [Shopify/polaris](https://github.com/Shopify/polaris)
-9. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2020438546) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-10. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2017676851) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+1. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2188309236) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+2. ❗ Opened issue [#1871](https://github.com/Shopify/shopify_app/issues/1871) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+3. 🗣 Commented on [#1785](https://github.com/Shopify/shopify_app/issues/1785#issuecomment-2188112922) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+4. ❗ Opened issue [#12223](https://github.com/Shopify/polaris/issues/12223) in [Shopify/polaris](https://github.com/Shopify/polaris)
+5. 🗣 Commented on [#11479](https://github.com/Shopify/polaris/pull/11479#issuecomment-2152777073) in [Shopify/polaris](https://github.com/Shopify/polaris)
+6. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2135019013) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+7. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2114112106) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+8. 💪 Opened PR [#1847](https://github.com/Shopify/shopify_app/pull/1847) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+9. ❗ Opened issue [#1846](https://github.com/Shopify/shopify_app/issues/1846) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+10. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2060544021) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
 <!--END_SECTION:activity-->
 
 ## 🎵
