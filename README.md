@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/stimulus-components/stimulus-components/issues/97#issuecomment-2273345974) in [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components)
-2. ❗ Opened issue [#97](https://github.com/stimulus-components/stimulus-components/issues/97) in [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components)
-3. 🗣 Commented on [#1871](https://github.com/Shopify/shopify_app/issues/1871#issuecomment-2240084264) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-4. 🔒 Closed issue [#1871](https://github.com/Shopify/shopify_app/issues/1871) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-5. 🗣 Commented on [#1871](https://github.com/Shopify/shopify_app/issues/1871#issuecomment-2202182140) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-6. 🗣 Commented on [#1222](https://github.com/Shopify/shopify-api-ruby/issues/1222#issuecomment-2188309236) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-7. ❗ Opened issue [#1871](https://github.com/Shopify/shopify_app/issues/1871) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-8. 🗣 Commented on [#1785](https://github.com/Shopify/shopify_app/issues/1785#issuecomment-2188112922) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-9. ❗ Opened issue [#12223](https://github.com/Shopify/polaris/issues/12223) in [Shopify/polaris](https://github.com/Shopify/polaris)
-10. 🗣 Commented on [#11479](https://github.com/Shopify/polaris/pull/11479#issuecomment-2152777073) in [Shopify/polaris](https://github.com/Shopify/polaris)
+1. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324822363) in [rails/solid_queue](https://github.com/rails/solid_queue)
+2. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324808023) in [rails/solid_queue](https://github.com/rails/solid_queue)
+3. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324757318) in [rails/solid_queue](https://github.com/rails/solid_queue)
+4. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324540520) in [rails/solid_queue](https://github.com/rails/solid_queue)
+5. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324387813) in [rails/solid_queue](https://github.com/rails/solid_queue)
+6. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324368445) in [rails/solid_queue](https://github.com/rails/solid_queue)
+7. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324347606) in [rails/solid_queue](https://github.com/rails/solid_queue)
+8. 🗣 Commented on [#97](https://github.com/stimulus-components/stimulus-components/issues/97#issuecomment-2273345974) in [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components)
+9. ❗ Opened issue [#97](https://github.com/stimulus-components/stimulus-components/issues/97) in [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components)
+10. 🗣 Commented on [#1871](https://github.com/Shopify/shopify_app/issues/1871#issuecomment-2240084264) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
 <!--END_SECTION:activity-->
 
 ## 🎵
