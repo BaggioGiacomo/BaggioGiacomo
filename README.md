@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2360103121) in [Shopify/cli](https://github.com/Shopify/cli)
-2. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2357877420) in [Shopify/cli](https://github.com/Shopify/cli)
-3. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324822363) in [rails/solid_queue](https://github.com/rails/solid_queue)
-4. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324808023) in [rails/solid_queue](https://github.com/rails/solid_queue)
-5. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324757318) in [rails/solid_queue](https://github.com/rails/solid_queue)
-6. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324540520) in [rails/solid_queue](https://github.com/rails/solid_queue)
-7. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324387813) in [rails/solid_queue](https://github.com/rails/solid_queue)
-8. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324368445) in [rails/solid_queue](https://github.com/rails/solid_queue)
-9. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324347606) in [rails/solid_queue](https://github.com/rails/solid_queue)
-10. 🗣 Commented on [#97](https://github.com/stimulus-components/stimulus-components/issues/97#issuecomment-2273345974) in [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components)
+1. ❗ Opened issue [#449](https://github.com/baoagency/polaris_view_components/issues/449) in [baoagency/polaris_view_components](https://github.com/baoagency/polaris_view_components)
+2. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2360103121) in [Shopify/cli](https://github.com/Shopify/cli)
+3. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2357877420) in [Shopify/cli](https://github.com/Shopify/cli)
+4. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324822363) in [rails/solid_queue](https://github.com/rails/solid_queue)
+5. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324808023) in [rails/solid_queue](https://github.com/rails/solid_queue)
+6. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324757318) in [rails/solid_queue](https://github.com/rails/solid_queue)
+7. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324540520) in [rails/solid_queue](https://github.com/rails/solid_queue)
+8. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324387813) in [rails/solid_queue](https://github.com/rails/solid_queue)
+9. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324368445) in [rails/solid_queue](https://github.com/rails/solid_queue)
+10. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324347606) in [rails/solid_queue](https://github.com/rails/solid_queue)
 <!--END_SECTION:activity-->
 
 ## 🎵
