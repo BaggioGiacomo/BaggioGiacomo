@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-2. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-3. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-4. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2391667668) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-5. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2390625865) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-6. ❗ Opened issue [#1912](https://github.com/Shopify/shopify_app/issues/1912) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-7. ❗ Opened issue [#449](https://github.com/baoagency/polaris_view_components/issues/449) in [baoagency/polaris_view_components](https://github.com/baoagency/polaris_view_components)
-8. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2360103121) in [Shopify/cli](https://github.com/Shopify/cli)
-9. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2357877420) in [Shopify/cli](https://github.com/Shopify/cli)
-10. 🗣 Commented on [#309](https://github.com/rails/solid_queue/issues/309#issuecomment-2324822363) in [rails/solid_queue](https://github.com/rails/solid_queue)
+1. ❗ Opened issue [#2406](https://github.com/Shopify/ui-extensions/issues/2406) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+2. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+3. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+4. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+5. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2391667668) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+6. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2390625865) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+7. ❗ Opened issue [#1912](https://github.com/Shopify/shopify_app/issues/1912) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+8. ❗ Opened issue [#449](https://github.com/baoagency/polaris_view_components/issues/449) in [baoagency/polaris_view_components](https://github.com/baoagency/polaris_view_components)
+9. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2360103121) in [Shopify/cli](https://github.com/Shopify/cli)
+10. 🗣 Commented on [#4209](https://github.com/Shopify/cli/issues/4209#issuecomment-2357877420) in [Shopify/cli](https://github.com/Shopify/cli)
 <!--END_SECTION:activity-->
 
 ## 🎵
