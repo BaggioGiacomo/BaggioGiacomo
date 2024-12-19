@@ -92,16 +92,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2406](https://github.com/Shopify/ui-extensions/issues/2406#issuecomment-2429151148) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-2. 🗣 Commented on [#2406](https://github.com/Shopify/ui-extensions/issues/2406#issuecomment-2425763060) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-3. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2414092042) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
-4. ❗ Opened issue [#2406](https://github.com/Shopify/ui-extensions/issues/2406) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-5. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-6. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-7. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-8. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2391667668) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-9. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2390625865) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-10. ❗ Opened issue [#1912](https://github.com/Shopify/shopify_app/issues/1912) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+1. ❗ Opened issue [#458](https://github.com/rails/solid_queue/issues/458) in [rails/solid_queue](https://github.com/rails/solid_queue)
+2. 🗣 Commented on [#2406](https://github.com/Shopify/ui-extensions/issues/2406#issuecomment-2429151148) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+3. 🗣 Commented on [#2406](https://github.com/Shopify/ui-extensions/issues/2406#issuecomment-2425763060) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+4. 🗣 Commented on [#302](https://github.com/Shopify/shopify-app-bridge/issues/302#issuecomment-2414092042) in [Shopify/shopify-app-bridge](https://github.com/Shopify/shopify-app-bridge)
+5. ❗ Opened issue [#2406](https://github.com/Shopify/ui-extensions/issues/2406) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+6. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+7. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+8. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+9. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2391667668) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+10. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2390625865) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
 <!--END_SECTION:activity-->
 
 ## 🎵
