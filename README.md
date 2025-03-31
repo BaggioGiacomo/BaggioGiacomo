@@ -83,12 +83,6 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-## My GitHub Stats! 📈
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=baggiogiacomo&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
-
-## Snake 🐍
-<img align="center" src="https://raw.githubusercontent.com/baggiogiacomo/baggiogiacomo/output/github-contribution-grid-snake.svg" />
-
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
