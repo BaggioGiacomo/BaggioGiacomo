@@ -86,12 +86,12 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369#issuecomment-2768197712) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-2. 💪 Opened PR [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-3. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2761567689) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-4. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2760850366) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
-5. 🗣 Commented on [#1728](https://github.com/Shopify/shopify_app/issues/1728#issuecomment-2603882326) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-6. ❗ Opened issue [#2406](https://github.com/Shopify/ui-extensions/issues/2406) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
+1. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2769785908) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+2. 💪 Opened PR [#64](https://github.com/kirillplatonov/shopify_graphql/pull/64) in [kirillplatonov/shopify_graphql](https://github.com/kirillplatonov/shopify_graphql)
+3. 🗣 Commented on [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369#issuecomment-2768197712) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+4. 💪 Opened PR [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+5. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2761567689) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
+6. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2760850366) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
 7. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
 8. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
 9. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
