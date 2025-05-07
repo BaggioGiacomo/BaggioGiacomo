@@ -1,7 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
 ## Who am I? 🤔
-My name's Baggio Giacomo, I'm 22 years old and I'm from Italy 🇮🇹.
+My name's Baggio Giacomo, I'm 23 years old and I'm from Italy 🇮🇹.
 
 I'm a cloud developer superior technician and I'm currently working as a web developer at [InkOfPixel](https://inkofpixel.com/).
     
