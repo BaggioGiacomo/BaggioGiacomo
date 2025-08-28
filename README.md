@@ -86,8 +86,8 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13955](https://github.com/Shopify/polaris/issues/13955) in [Shopify/polaris](https://github.com/Shopify/polaris)
-2. 🗣 Commented on [#11074](https://github.com/Shopify/polaris/issues/11074#issuecomment-2893634925) in [Shopify/polaris](https://github.com/Shopify/polaris)
+1. 🗣 Commented on [#4124](https://github.com/Shopify/cli/issues/4124#issuecomment-3227201470) in [Shopify/cli](https://github.com/Shopify/cli)
+2. ❗ Opened issue [#13955](https://github.com/Shopify/polaris/issues/13955) in [Shopify/polaris](https://github.com/Shopify/polaris)
 3. 🗣 Commented on [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369#issuecomment-2768197712) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
 4. 💪 Opened PR [#1369](https://github.com/Shopify/shopify-api-ruby/pull/1369) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
 5. 🗣 Commented on [#1346](https://github.com/Shopify/shopify-api-ruby/pull/1346#issuecomment-2761567689) in [Shopify/shopify-api-ruby](https://github.com/Shopify/shopify-api-ruby)
