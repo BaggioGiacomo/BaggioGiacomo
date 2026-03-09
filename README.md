@@ -86,15 +86,15 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-2. 💪 Opened PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-3. ℹ️ Assigned PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-4. 🎉 Merged PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-5. 💪 Opened PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-6. ℹ️ Assigned PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-7. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2393947375) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
-8. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2392888207) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
-9. 🗣 Commented on [#1912](https://github.com/Shopify/shopify_app/issues/1912#issuecomment-2391686242) in [Shopify/shopify_app](https://github.com/Shopify/shopify_app)
+1. 🎉 Merged PR [#39](https://github.com/BaggioGiacomo/pretemp/pull/39) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+2. 💪 Opened PR [#39](https://github.com/BaggioGiacomo/pretemp/pull/39) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+3. ℹ️ Assigned PR [#39](https://github.com/BaggioGiacomo/pretemp/pull/39) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+4. 🎉 Merged PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+5. 💪 Opened PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+6. ℹ️ Assigned PR [#28](https://github.com/BaggioGiacomo/pretemp/pull/28) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+7. 🎉 Merged PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+8. 💪 Opened PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+9. ℹ️ Assigned PR [#27](https://github.com/BaggioGiacomo/pretemp/pull/27) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
 10. 🗣 Commented on [#1887](https://github.com/Shopify/ui-extensions/issues/1887#issuecomment-2391667668) in [Shopify/ui-extensions](https://github.com/Shopify/ui-extensions)
 <!--END_SECTION:activity-->
 
