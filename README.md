@@ -86,16 +86,16 @@ I'm a cloud developer superior technician and I'm currently working as a web dev
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-2. ℹ️ Assigned PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-3. 💪 Opened PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-4. 🎉 Merged PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-5. 💪 Opened PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-6. ℹ️ Assigned PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-7. 🎉 Merged PR [#44](https://github.com/BaggioGiacomo/pretemp/pull/44) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-8. 💪 Opened PR [#44](https://github.com/BaggioGiacomo/pretemp/pull/44) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-9. ℹ️ Assigned PR [#44](https://github.com/BaggioGiacomo/pretemp/pull/44) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-10. 🎉 Merged PR [#39](https://github.com/BaggioGiacomo/pretemp/pull/39) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+1. 🎉 Merged PR [#47](https://github.com/BaggioGiacomo/pretemp/pull/47) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+2. 💪 Opened PR [#47](https://github.com/BaggioGiacomo/pretemp/pull/47) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+3. ℹ️ Assigned PR [#47](https://github.com/BaggioGiacomo/pretemp/pull/47) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+4. 🎉 Merged PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+5. ℹ️ Assigned PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+6. 💪 Opened PR [#46](https://github.com/BaggioGiacomo/pretemp/pull/46) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+7. 🎉 Merged PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+8. 💪 Opened PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+9. ℹ️ Assigned PR [#45](https://github.com/BaggioGiacomo/pretemp/pull/45) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+10. 🎉 Merged PR [#44](https://github.com/BaggioGiacomo/pretemp/pull/44) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
 <!--END_SECTION:activity-->
 
 ## 🎵
