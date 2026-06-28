@@ -86,9 +86,9 @@ I'm a cloud developer superior technician and I'm currently working as a Shopify
 ## Recent Activity ✔️
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/BaggioGiacomo/pretemp/pull/50) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-2. 💪 Opened PR [#50](https://github.com/BaggioGiacomo/pretemp/pull/50) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
-3. ℹ️ Assigned PR [#50](https://github.com/BaggioGiacomo/pretemp/pull/50) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+1. 🎉 Merged PR [#51](https://github.com/BaggioGiacomo/pretemp/pull/51) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+2. 💪 Opened PR [#51](https://github.com/BaggioGiacomo/pretemp/pull/51) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
+3. ℹ️ Assigned PR [#51](https://github.com/BaggioGiacomo/pretemp/pull/51) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
 4. 🎉 Merged PR [#49](https://github.com/BaggioGiacomo/pretemp/pull/49) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
 5. 💪 Opened PR [#49](https://github.com/BaggioGiacomo/pretemp/pull/49) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
 6. ℹ️ Assigned PR [#49](https://github.com/BaggioGiacomo/pretemp/pull/49) in [BaggioGiacomo/pretemp](https://github.com/BaggioGiacomo/pretemp)
